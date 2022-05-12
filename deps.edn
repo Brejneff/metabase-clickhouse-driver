@@ -3,3 +3,4 @@
 
  :deps
  {ru.yandex.clickhouse/clickhouse-jdbc {:mvn/version "v0.3.2-patch9"}}}
+ 
